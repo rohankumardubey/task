@@ -9,9 +9,10 @@ require (
 	github.com/radovskyb/watcher v1.0.7
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/sync v0.1.0
+	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
-	mvdan.cc/sh/v3 v3.4.2-0.20211202103622-5ae9d64e1402
+	mvdan.cc/sh/v3 v3.6.0
 )
 
 go 1.16
